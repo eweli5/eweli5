@@ -4,7 +4,7 @@ First Tier
 - 8-Port UGREEN Switch
 - Fujitsu Futro S720 with AMD GX-222GC and 8GB RAM with 3TB SSD for Jellyfin
 - Fujitsu Futro S720 with AMD GX-222GC and 8GB RAM with 128GB SSD for Grafana and AdGuard
-- Fujitsu Futro S720 with AMD GX-222GC and 8GB RAM with 8GB SSD
+- Fujitsu Futro S720 with AMD GX-222GC and 4GB RAM with 8GB SSD
 
 Second Tier
 - 10-Port Patch-Panel
