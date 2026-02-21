@@ -14,4 +14,5 @@ Second Tier
 
 Network Diagram:
 
-<img width="938" height="873" alt="githubdiagram" src="https://github.com/user-attachments/assets/8fbf7990-e443-4092-b5f7-c73bec37e95b" />
+<img width="647" height="911" alt="githubdiagram" src="https://github.com/user-attachments/assets/2350d850-6ef6-4986-a7e8-765a49ae1a6b" />
+
