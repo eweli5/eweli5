@@ -11,3 +11,6 @@ Second Tier
 - Raspberry Pi4B with 1TB SSD for Nextcloud
 - HP PS1810-24G 24-Port Switch
 - Lenovo ThinkCentre M800 with i5-6400 and 8GB RAM for CraftyController
+
+Network Diagram:
+<img width="938" height="873" alt="githubdiagram" src="https://github.com/user-attachments/assets/8fbf7990-e443-4092-b5f7-c73bec37e95b" />
