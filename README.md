@@ -12,7 +12,4 @@ Second Tier
 - HP PS1810-24G 24-Port Switch
 - Lenovo ThinkCentre M800 with i5-6400 and 8GB RAM for CraftyController
 
-Network Diagram:
-
-<img width="647" height="911" alt="githubdiagram" src="https://github.com/user-attachments/assets/2350d850-6ef6-4986-a7e8-765a49ae1a6b" />
-
+<img width="647" height="670" alt="githubdiagram" src="https://github.com/user-attachments/assets/13661c1e-a236-480e-8b67-5dfa970ba2dc" />
