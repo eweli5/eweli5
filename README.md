@@ -1,15 +1,20 @@
 Homelab:
 
-First Tier
-- 8-Port UGREEN Switch
-- Fujitsu Futro S720 with AMD GX-222GC and 8GB RAM with 3TB SSD for Jellyfin
-- Fujitsu Futro S720 with AMD GX-222GC and 8GB RAM with 128GB SSD for Grafana and AdGuard
-- Fujitsu Futro S720 with AMD GX-222GC and 4GB RAM with 8GB SSD
-
-Second Tier
+First Tier:
 - 10-Port Patch-Panel
+- 8-Port UGREEN Switch
+- Fujitsu Futro S720, AMD GX-222GC and 8GB RAM with 8GB SSD 
+- Fujitsu Futro S720, AMD GX-222GC and 8GB RAM with 8GB SSD 
+- Fujitsu Futro S720, AMD GX-222GC and 8GB RAM with 8GB SSD
+- Fujitsu Futro S720, AMD GX-222GC and 8GB RAM with 8GB SSD
 - Raspberry Pi4B with 1TB SSD for Nextcloud
+
+Second Tier:
 - HP PS1810-24G 24-Port Switch
+- Intel NUC, i3-4010U with 16GB RAM and 4TB SSD for Jellyfin, Homarr, Apache Website and AdGuard
+- Intel NUC, i3-4010U with 4GB RAM and 500GB SSD for Grafana
+- Intel NUC, i3-4010U with 8GB RAM and 500GB SSD
+- Intel NUC, i3-4010U with 4GB RAM and 120GB SSD
 - Lenovo ThinkCentre M800 with i5-6400 and 8GB RAM for CraftyController
 
-<img width="543" height="612" alt="githubdiagram" src="https://github.com/user-attachments/assets/c0984afb-3dd1-4547-ba76-a42d4ba4c2cc" />
+<img width="703" height="935" alt="githubdiagram drawio - draw io 25 03 2026 15_04_14" src="https://github.com/user-attachments/assets/402089e4-9157-440e-98d1-5a6f8599c48e" />
