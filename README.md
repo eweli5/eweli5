@@ -92,14 +92,6 @@ A two-tier rack setup running self-hosted services 24/7. Yes, it's overkill. No,
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-![eweli5's GitHub stats](https://github-readme-stats.vercel.app/api?username=eweli5&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eweli5&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
 </div>
 
 ---
