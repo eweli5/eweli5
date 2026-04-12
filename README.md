@@ -99,6 +99,9 @@ A two-tier rack setup running self-hosted services 24/7. Yes, it's overkill. No,
 </div>
 
 ---
+## `> when_im_not_coding`
+
+Dark Souls I · II · III · Elden Ring · CS:GO · Valorant · Minecraft · Assassin's Creed · Batman: Arkham Knight · Cyberpunk 2077 · Doom · Forza Horizon 5 · Terraria
 
 ## `> contact`
 
