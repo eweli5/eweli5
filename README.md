@@ -25,6 +25,10 @@
 <img width="1920" height="1080" alt="Screenshot_15-Apr_18-46-16_17617" src="https://github.com/user-attachments/assets/35f29301-551c-4822-a40f-79fa1d3ce300" />
 </div>
 
+<div align="center">
+<img width="1920" height="1080" alt="Screenshot_16-Apr_01-10-31_30350" src="https://github.com/user-attachments/assets/155053b7-b480-4f05-bbe2-aa4bc645b208" />
+</div>
+
 ---
 
 ## `> whoami`
