@@ -22,7 +22,7 @@
 ## `> desktop`
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/001595cf-9a8c-43a5-8e00-dfd638a80f26" width="100%" alt="Desktop rice — Arch Linux + Hyprland" />
+<img width="1920" height="1080" alt="Screenshot_12-Apr_16-03-43_12778" src="https://github.com/user-attachments/assets/1bd34c96-571d-4026-a32b-50ce3cc52abd" />
 </div>
 
 ---
