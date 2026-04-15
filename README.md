@@ -22,7 +22,7 @@
 ## `> desktop`
 
 <div align="center">
-<img width="1920" height="1080" alt="Screenshot_12-Apr_16-03-43_12778" src="https://github.com/user-attachments/assets/1bd34c96-571d-4026-a32b-50ce3cc52abd" />
+<img width="1920" height="1080" alt="Screenshot_15-Apr_18-46-16_17617" src="https://github.com/user-attachments/assets/35f29301-551c-4822-a40f-79fa1d3ce300" />
 </div>
 
 ---
