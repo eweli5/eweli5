@@ -19,15 +19,13 @@ $$   ____|$$ | $$ | $$ |$$   ____|$$ | $$ |  \____$$\
 
 ---
 
-## `> desktop`<img width="1920" height="1080" alt="Screenshot_2026-10-16_04-47-17" src="https://github.com/user-attachments/assets/9a56739a-e29d-4031-8bd8-95cf83d6c5b9" />
-
 
 <div align="center">
 <img width="1920" height="1080" alt="Screenshot_15-Apr_18-46-16_17617" src="https://github.com/user-attachments/assets/35f29301-551c-4822-a40f-79fa1d3ce300" />
 </div>
 
 <div align="center">
-<img width="1920" height="1080" alt="Screenshot_2026-10-16_04-47-17" src="https://github.com/user-attachments/assets/b8161268-667d-4dbf-be0e-1e1ffd22df60" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-16_04-47-17" src="https://github.com/user-attachments/assets/0d43290b-7614-4ec5-847c-51fdf837457a" />
 </div>
 
 
