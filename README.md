@@ -25,7 +25,7 @@ $$   ____|$$ | $$ | $$ |$$   ____|$$ | $$ |  \____$$\
 </div>
 
 <div align="center">
-<img width="1920" height="1080" alt="Screenshot_2026-10-16_04-47-17" src="https://github.com/user-attachments/assets/0d43290b-7614-4ec5-847c-51fdf837457a" />
+<img width="1903" height="1020" alt="Screenshot_2026-10-16_04-47-17" src="https://github.com/user-attachments/assets/a67f4834-2b63-4a93-a53e-0634e254551e" />
 </div>
 
 
